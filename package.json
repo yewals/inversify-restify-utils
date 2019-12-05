@@ -1,5 +1,5 @@
 {
-  "name": "inversify-restify-utils",
+  "name": "@finlife/inversify-restify-utils",
   "version": "3.4.1",
   "description": "Some utilities for the development of restify applications with Inversify",
   "main": "lib/index.js",
